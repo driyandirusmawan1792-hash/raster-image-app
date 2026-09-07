@@ -1,0 +1,1 @@
+import React from 'react';import{createRoot}from'react-dom/client';import VideoMaker from'./VideoMaker.jsx';import'./video.css';createRoot(document.getElementById('root')).render(<VideoMaker/>);
